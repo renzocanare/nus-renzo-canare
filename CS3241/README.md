@@ -1,0 +1,1 @@
+<h1 align="center">📄 CS3241 - Computer Graphics 📄</h1>
